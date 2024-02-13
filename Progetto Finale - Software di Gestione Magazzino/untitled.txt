@@ -1,0 +1,15 @@
+per le vendite posso creare nuovo file (csv??) in cui ho una struttura a tabella.
+Ogni riga corrisponde ad una vendita; ogni riga ha 2 colonne che riportano il
+totale di vendita e totale di acquisto per ogni vendita effettuata. 
+Quindi non salvo nel file le info sul singolo prodotto venduto, ma solo le info
+riguardanti costi e guadagni per ogni vendita.
+
+esempio di struttura:
+vendita,acquisto
+23,18
+10,5
+
+
+in questo caso ho in totale due vendite. 
+Totale lordo = somma dei prezzi di vendita -> 23+10 = 33
+totale netto = lordo - somma dei prezzi di acquisto -> 33 - (18+5) = 10

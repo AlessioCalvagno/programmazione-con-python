@@ -1,0 +1,16 @@
+{
+    "product_count": 100,
+    "total_price": 1247.5000000000007,
+    "mean_price": 12.475000000000007,
+    "color_count": {
+        "bianco": 47,
+        "verde": 33,
+        "rosso": 20
+    },
+    "size_count": {
+        "S": 25,
+        "M": 25,
+        "XL": 24,
+        "L": 26
+    }
+}
